@@ -1,6 +1,6 @@
 # ■Index
 - [About Me](#about-me)
-  - [ZENN Account](#zenn-account)
+  - [Batch](#batch)
 - [Skill Set](#skill-set)
   - [Front End Skills](#front-end-skills)
   - [Back-END Skills](#back-end-skills)
@@ -10,7 +10,11 @@
 - [Trophy](#trophy)
 ---
 # ■About Me
-## 🔸ZENN Account
+## 🔸SNS
+  <a href="https://github.com/KanedaAkihiro/KanedaAkihiro/">
+    <img src="https://komarev.com/ghpvc/?username=KanedaAkihiro" alt="KanedaAkihiro" />
+  </a>
+  
 [![Followers](https://badgen.org/img/zenn/milk_code/followers?style=for-the-badge&label=ZENN%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)](https://zenn.dev/milk_code)
 ---
 # ■Skill Set
