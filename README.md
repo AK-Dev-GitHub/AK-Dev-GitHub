@@ -9,10 +9,10 @@
 - [Top Languages Card](#top-languages-card)
 ---
 # ■About Me
+
+
 ## 🔸ZENN Account
 [![Followers](https://badgen.org/img/zenn/milk_code/followers?style=for-the-badge&label=ZENN%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)](https://zenn.dev/milk_code)
-
-### This repository is for personal study of JavaScript. It contains sample code for functions, log output, local storage, asynchronous processing, etc.
 ---
 # ■Skill Set
 ## 🔸Front-END Skills
