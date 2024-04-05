@@ -5,6 +5,7 @@
   - [Front End Skills](#front-end-skills)
   - [Back-END Skills](#back-end-skills)
   - [Other Skills](#other-skills)
+  - [Studying](#studying)
 - [Top Languages Card](#top-languages-card)
 ---
 # ■About Me
@@ -20,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,java,spring,prisma,supabase)](https://skillicons.dev)
 ## 🔸Other Skills
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode,vercel,postman,gitlab,github)](https://skillicons.dev)
-## 🔸interested in & studying
+## 🔸Studying
 [![My Skills](https://skillicons.dev/icons?i=swift,linux,sass,xd,ruby,jest,go,docker)](https://skillicons.dev)
 
 ---
