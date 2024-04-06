@@ -57,3 +57,15 @@
 # ■Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KanedaAkihiro&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<div align="center">
+    <h1>
+        <img src="https://github.com/KanedaAkihiro/KanedaAkihiro/blob/main/SonicRun1.gif?raw=true">
+        <img src="https://github.com/KanedaAkihiro/KanedaAkihiro/blob/main/SonicRun1.gif?raw=true">
+        <img src="https://github.com/KanedaAkihiro/KanedaAkihiro/blob/main/SonicRun1.gif?raw=true">
+        <img src="https://github.com/KanedaAkihiro/KanedaAkihiro/blob/main/SonicRun1.gif?raw=true">
+    </h1>
+  </div>
+<br>
+
