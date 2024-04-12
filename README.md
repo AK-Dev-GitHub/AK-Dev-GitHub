@@ -24,6 +24,7 @@
 - [Trophy](#trophy)
 ---
 # ■About Me
+Lives and works in Tokyo. Studying mainly front-end design.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanedaAkihiro&theme=2077)
 ## 🔸Batch
   <a href="https://github.com/KanedaAkihiro/KanedaAkihiro/">
