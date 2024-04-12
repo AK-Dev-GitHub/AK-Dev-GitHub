@@ -14,6 +14,7 @@
 # ■Index
 - [About Me](#about-me)
   - [Batch](#batch)
+  - [Music](#music)
 - [Skill Set](#skill-set)
   - [Front End Skills](#front-end-skills)
   - [Back-END Skills](#back-end-skills)
