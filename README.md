@@ -35,6 +35,7 @@ Lives and works in Tokyo. Studying mainly front-end design.
   [![Followers](https://badgen.org/img/zenn/milk_code/followers?style=for-the-badge&label=ZENN%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88)](https://zenn.dev/milk_code)
 
 ## 🔸Music
+This is the most recent music I'm listening to.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yqmzy8ln4ienoypia2i8hfcib)
 
 
