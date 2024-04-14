@@ -36,6 +36,7 @@ Lives and works in Tokyo. Studying mainly front-end design.
 
 ## 🔸Music
 This is the most recent music I'm listening to.
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yqmzy8ln4ienoypia2i8hfcib)
 
 
