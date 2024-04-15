@@ -27,6 +27,8 @@
 Lives and works in Tokyo. Studying mainly front-end design.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanedaAkihiro&theme=2077)
 ## 🔸Batch
+How do I get more followers?
+
   <a href="https://github.com/KanedaAkihiro/KanedaAkihiro/">
     <img src="https://komarev.com/ghpvc/?username=KanedaAkihiro" alt="KanedaAkihiro" />
   </a>
