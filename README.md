@@ -43,12 +43,6 @@ This is the most recent music I'm listening to.
 # ■Skill Set
 ## 🔸Front-END Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,figma,nextjs,nuxtjs,pinia,react,ts,vue,vuetify,tailwind,nodejs,md)](https://skillicons.dev)
-## 🔸Back-END Skills
-[![My Skills](https://skillicons.dev/icons?i=eclipse,java,spring,prisma,supabase)](https://skillicons.dev)
-## 🔸Other Skills
-[![My Skills](https://skillicons.dev/icons?i=notion,vscode,vercel,postman,gitlab,github)](https://skillicons.dev)
-## 🔸Studying
-[![My Skills](https://skillicons.dev/icons?i=swift,linux,sass,xd,ruby,jest,go,docker)](https://skillicons.dev)
 ---
 # ■Top Languages Card
 <p align="left"> 
